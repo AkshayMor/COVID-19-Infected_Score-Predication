@@ -18,3 +18,5 @@ parameters of a person on 20th March 2020
 3.Test_data.xlsx :
 
 This is the test data on which accuracy of the model will be computed.
+
+ Resultant Infected_Score of Test_data saves in Task1_score.csv file
